@@ -1,7 +1,7 @@
 ![](cover.png)
 
-**My (epizeuxius) efforts to learn and solve the damn vulnerable defi challenges **
-**Shoutout to tinchoabbate for creating such a wonderful set of challenges**
+My (epizeuxius) efforts to learn and solve the damn vulnerable defi challenges **
+Shoutout to tinchoabbate for creating such a wonderful set of challenges**
 
 **A set of challenges to learn offensive security of smart contracts in Ethereum.**
 
